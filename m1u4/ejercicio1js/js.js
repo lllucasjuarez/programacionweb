@@ -1,4 +1,3 @@
-// CODIGO EJERCICIO 1
 
 let distancia = prompt ("Ingrese distancia a recorrer en metros.")
 
@@ -16,9 +15,6 @@ if (distancia <= 1000 ) {
     document.write("Le sugerimos viajar en avion")
 }
 
-
-
-//CODIGO EJERCICIO 2
 
 
 
