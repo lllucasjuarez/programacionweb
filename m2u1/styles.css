@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: normal;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+#item1 {
+    margin: 0;
+    padding: 5rem;
+    background-color: #0b2b3a;
+}
+#item2 {
+    margin: 0;
+    padding: 5rem;
+    background-color:#cdcfcf;
+}
+#item3 {
+    margin: 0;
+    padding: 5rem;
+    background-color:#2f9c4c;
+}
